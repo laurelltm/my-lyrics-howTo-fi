@@ -1,4 +1,4 @@
-# MyLyrics - Käyttöönotto-ohjeet
+# MyLyrics - Käyttöönotto
 
 Tässä ohjeessa käydään läpi MyLyrics-sovelluksen käyttöönotto iPhonella ja Androidilla.
 
