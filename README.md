@@ -34,7 +34,8 @@ Voit siirtyä suoraan haluamaasi osioon:
 
 ## Android
 
-> Android-versio on toistaiseksi saatavilla vain rajoitetusti Suomessa.  
+> Android-versio on toistaiseksi saatavilla vain rajoitetusti Suomessa.
+<br/><br/>
 > Asennus vaatii liittymisen Google-ryhmään sovelluksen testaajaksi. Muista käyttää samaa Gmail-tiliä kuin Play Storessa.
 
 ### Asennusohjeet Androidille
