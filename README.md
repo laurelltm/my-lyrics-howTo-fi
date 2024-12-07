@@ -59,7 +59,7 @@ Voit siirtyä suoraan haluamaasi osioon:
    Jos sovellus ei ole saatavilla, niin todennäköisesti et ole liittynyt ryhmään oikealla Gmail-tilillä.
    <br/><br/>
 6. **Avaa WhatsApp-viestistä saamasi sisältötiedosto** (books-tiedosto):  
-   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/android-books-file.jpeg" alt="Open file in WhatsApp" height="150" style="border: 1px solid black;">
+   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/android-books-file.jpeg" alt="Open file in WhatsApp" height="70" style="border: 1px solid black;">
    <br/><br/>
 7. **Avaa tiedosto sisältötiedosto MyLyrics-sovelluksessa**:  
    <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/whats-app-open.jpg" alt="Open file in WhatsApp" height="150" style="border: 1px solid black;">
