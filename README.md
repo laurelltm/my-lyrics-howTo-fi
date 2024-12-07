@@ -54,11 +54,14 @@ Voit siirtyä suoraan haluamaasi osioon:
    Klikkaa ryhmässä olevaa linkkiä.  
    <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/to_play_store.jpeg" alt="Go to Play Store" height="600" style="border: 1px solid black;">
    <br/><br/>
-5 **Asenna sovellus Play Storesta**  
+5. **Asenna sovellus Play Storesta**  
    [My Lyrics Play Store](https://play.google.com/store/apps/details?id=org.laurell.openSongbook3&pli=1)  
    Jos sovellus ei ole saatavilla, niin todennäköisesti et ole liittynyt ryhmään oikealla Gmail-tilillä.
    <br/><br/>
 6. **Avaa WhatsApp-viestistä saamasi sisältötiedosto** (books-tiedosto):  
+   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/android-books-file.jpg" alt="Open file in WhatsApp" height="150" style="border: 1px solid black;">
+   <br/><br/>
+7. **Avaa tiedosto sisältötiedosto MyLyrics-sovelluksessa**:  
    <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/whats-app-open.jpg" alt="Open file in WhatsApp" height="150" style="border: 1px solid black;">
 
 ---
