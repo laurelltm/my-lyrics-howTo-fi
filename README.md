@@ -9,19 +9,19 @@ Tässä ohjeessa käydään läpi MyLyrics-sovelluksen käyttöönotto iPhonella
 ### Asennusohjeet iPhonelle
 
 1. Asenna sovellus App Storesta: [My Lyrics AppStore](https://apps.apple.com/fi/app/my-lyrics/id6471364838)  
-   ![image1](./iphone/images/appstore.jpeg)
+   ![](https://laurelltm.github.io/my-lyrics-howTo-fi/images/iphone/appstore.jpeg | height=100)
 
 2. Avaa WhatsApp-viestistä saamasi sisältötiedosto (esim. lyrics-tiedosto).  
-   ![image2](./iphone/images/file_in_message.jpeg)
+   ![](https://laurelltm.github.io/my-lyrics-howTo-fi/images/iphone/file_in_message.jpeg | height=100)}
 
 3. Klikkaa tiedostonäkymästä keltaisella merkittyä jakokuvaketta.  
-   ![image3](./iphone/images/open_file.jpeg)
+   ![](https://laurelltm.github.io/my-lyrics-howTo-fi/images/iphone/open_file.jpeg | height=100)
 
 4. Valitse "Lisää" -painike.  
-   ![image4](./iphone/images/select_more.jpeg)
+   ![](https://laurelltm.github.io/my-lyrics-howTo-fi/images/iphone/select_more.jpeg | height=100)
 
 5. Valitse listasta "My Lyrics".  
-   ![image5](./iphone/images/select_app.jpeg)
+   ![](https://laurelltm.github.io/my-lyrics-howTo-fi/images/iphone/select_app.jpeg | height=100)
 
 ---
 
@@ -33,18 +33,18 @@ Tässä ohjeessa käydään läpi MyLyrics-sovelluksen käyttöönotto iPhonella
 
 ### Asennusohjeet Androidille
 
-1. Avaa [Google-ryhmä](https://groups.google.com/g/my-lyrics-app).  
+1. Avaa [Google-ryhmä](https://groups.google.com/g/my-lyrics-app | height=100).
 
 2. Klikkaa "Liity ryhmään".  
-   ![image_a2](./android/images/group-not-joined.jpeg)
+   ![](https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/group-not-joined.jpeg | height=100)
 
 3. Vahvista liittyminen klikkaamalla uudestaan "Liity ryhmään".  
-   ![image_a3](./android/images/clock_join.jpeg)
+   ![](https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/clock_join.jpeg | height=100)
 
 4. Klikkaa ryhmässä olevaa linkkiä avataksesi sovelluksen Play Storessa.  
-   ![image_a4](./android/images/to_play_store.jpeg)
+   ![](https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/to_play_store.jpeg | height=100)
 
 5. Asenna sovellus Play Storesta.
 
 6. Avaa WhatsApp-viestistä saamasi sisältötiedosto (esim. lyrics-tiedosto).  
-   ![image_a5](./android/images/whats-app-open.jpeg)
+   ![](https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/whats-app-open.jpeg | height=100)
