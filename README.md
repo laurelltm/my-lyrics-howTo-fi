@@ -43,20 +43,20 @@ Voit siirtyä suoraan haluamaasi osioon:
    [Liity Google-ryhmään](https://groups.google.com/g/my-lyrics-app)
    <br/><br/>
 2. **Klikkaa "Liity ryhmään":**  
-   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/group-not-joined.jpeg" alt="Join group" height="600">
+   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/group-not-joined.jpeg" alt="Join group" height="600" style="border: 1px solid black;">
    <br/><br/>
 3. **Vahvista liittyminen:**  
    Klikkaa uudestaan "Liity ryhmään".  
-   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/click_join.jpeg" alt="Confirm join" height="600">
+   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/click_join.jpeg" alt="Confirm join" height="600" style="border: 1px solid black;">
    <br/><br/>
 4. **Avaa sovellus Play Storessa:**  
    Klikkaa ryhmässä olevaa linkkiä.  
-   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/to_play_store.jpeg" alt="Go to Play Store" height="600">
+   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/to_play_store.jpeg" alt="Go to Play Store" height="600" style="border: 1px solid black;">
    <br/><br/>
 5. **Asenna sovellus Play Storesta.**
    <br/><br/>
 6. **Avaa WhatsApp-viestistä saamasi sisältötiedosto** (books-tiedosto):  
-   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/whats-app-open.jpg" alt="Open file in WhatsApp" height="150">
+   <img src="https://laurelltm.github.io/my-lyrics-howTo-fi/images/android/whats-app-open.jpg" alt="Open file in WhatsApp" height="150" style="border: 1px solid black;">
 
 ---
 
